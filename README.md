@@ -11,6 +11,4 @@
 
 Задание 4
 
-![](https://github.com/olimp85/SQL-1/blob/main/xren'.jpg)
-В последнем задание я так и не смог поменять буквы,пробовыал различные варианты,
-но ничего не работает. Прошу помощи!!!
+![](https://github.com/olimp85/SQL-1/blob/main/hren'.jpg)
